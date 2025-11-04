@@ -1,0 +1,1 @@
+SELECT AVG(PRICE) AS avg_price FROM books;
